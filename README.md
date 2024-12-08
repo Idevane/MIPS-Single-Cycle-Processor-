@@ -68,3 +68,9 @@ Feel free to fork this repository, submit issues, or contribute by creating pull
 
 This project is licensed under the MIT License.
 
+## Contact
+
+- **Author:** Isaac DeVaney  
+- **Email:** isaacdevaney@gmail.com
+- **GitHub:** idevane
+
